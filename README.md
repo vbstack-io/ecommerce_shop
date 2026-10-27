@@ -48,7 +48,7 @@ To set up the project locally for development, follow these steps:
 
 1. **Clone the Repository:**
    ````
-    git clone https://github.com/vadimbushtruk/ecommerce_shop.git   ````
+    git clone https://github.com/vbstack-io/ecommerce_shop.git   ````
 
 2. **Navigate to the Project Directory:**
     ````
